@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Brilliant/static/css/main.5ec2bc07.chunk.css",
+    "main.js": "/Brilliant/static/js/main.3aa8bb5e.chunk.js",
+    "main.js.map": "/Brilliant/static/js/main.3aa8bb5e.chunk.js.map",
+    "runtime-main.js": "/Brilliant/static/js/runtime-main.e9ad6eec.js",
+    "runtime-main.js.map": "/Brilliant/static/js/runtime-main.e9ad6eec.js.map",
+    "static/js/2.131e789a.chunk.js": "/Brilliant/static/js/2.131e789a.chunk.js",
+    "static/js/2.131e789a.chunk.js.map": "/Brilliant/static/js/2.131e789a.chunk.js.map",
+    "index.html": "/Brilliant/index.html",
+    "static/css/main.5ec2bc07.chunk.css.map": "/Brilliant/static/css/main.5ec2bc07.chunk.css.map",
+    "static/js/2.131e789a.chunk.js.LICENSE.txt": "/Brilliant/static/js/2.131e789a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9ad6eec.js",
+    "static/js/2.131e789a.chunk.js",
+    "static/css/main.5ec2bc07.chunk.css",
+    "static/js/main.3aa8bb5e.chunk.js"
+  ]
+}
